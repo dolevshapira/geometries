@@ -1,7 +1,7 @@
 from typing import OrderedDict
 from unittest import TextTestRunner, TestCase, TestSuite
-from data_types.geometry.point import Point
-from data_types.geometry.rectangle import Rectangle
+from data_types.point import Point
+from data_types.rectangle import Rectangle
 
 
 class RectanglePropertiesTestCase(TestCase):
