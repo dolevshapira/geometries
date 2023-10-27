@@ -1,7 +1,7 @@
 from typing import Union, Dict
 from collections import OrderedDict
-from utils.dict import add_suffix_to_dict_keys
-from data_types.geometry.point import Point
+from utils.dict_utils import add_suffix_to_dict_keys
+from data_types.point import Point
 
 
 class Rectangle:
